@@ -1,1 +1,1 @@
-Projeto para contagem do tempo
+>Projeto simples para contagem do tempo.
